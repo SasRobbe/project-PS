@@ -10,7 +10,7 @@ Een ISO aanpassen om de waardes tijdens de install automatisch te laten invullen
 aanpak:
 De ISO bewerken door hier een XML-bestand in te stoppen
 
-Wat ga je terug vinden in de ISO?:
+Wat ga je terug vinden in de repo?:
 	-de volledige ISO in een zip-bestand
 	-de zelfgemaakte XML (deze zit dus ook in de ISO)
 	-deze README
